@@ -1,4 +1,4 @@
-<img width="498" height="498" alt="InstagramMycrxnGIF" src="https://github.com/user-attachments/assets/62b01a67-53a1-4381-bd58-55b13ccdd6fc" /># Hi 👋, I'm Balamurugan 😇
+# Hi 👋, I'm Balamurugan 😇
 
 ### Software Test Engineer | QA Automation Enthusiast | Java Learner
 
