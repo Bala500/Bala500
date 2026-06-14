@@ -1,4 +1,4 @@
-# Hi 👋, I'm Balamurugan 😇
+<img width="498" height="498" alt="InstagramMycrxnGIF" src="https://github.com/user-attachments/assets/62b01a67-53a1-4381-bd58-55b13ccdd6fc" /># Hi 👋, I'm Balamurugan 😇
 
 ### Software Test Engineer | QA Automation Enthusiast | Java Learner
 
@@ -13,6 +13,11 @@
 * ⚡ Interested in Automation Testing and Java Development
 * 💡 Strong understanding of SDLC, STLC, and Defect Lifecycle
 * 🎯 Career Goal: Automation Test Engineer
+
+---
+## 😁😁  Fun Fact
+
+"Quality is never an accident; it is always the result of intelligent effort."
 
 ---
 
@@ -77,17 +82,13 @@ Git • GitHub • Maven • JIRA • Eclipse
 
 * 📧 Email: [balamurugan.csekar@gmai.com](mailto:balamurugan.csekar@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/balamurugan-c-5195b9291/
-
----
-
-## ✨ Fun Fact
-
-"Quality is never an accident; it is always the result of intelligent effort."
+* 🅾  Instragram: https://www.instagram.com/balamurugan_nb_official 
 
 ---
 
 ## 🧭 Current Focus
 
-* Learning advanced Selenium & API Testing
-* Improving Java coding skills
-* Building real-world automation projects
+* Selenium Automation
+* Core Java
+* Test Automation Frameworks
+* Software Quality Engineering
