@@ -1,36 +1,31 @@
-# Hi, I'm Balamurugan! 👋 
+# ⚡ Balamurugan | QA Automation Specialist
 
-### ⚙️ Software Testing & Quality Assurance Professional
-
-I am focused on the Software Testing Life Cycle (STLC), mapping out comprehensive test scenarios, tracking defects, and scaling up automation coverage with Java and Selenium.
+> Focus: Ensuring product reliability through automated test suites and systematic manual validation.
 
 ---
 
-## 💻 Tech Stack & Tools
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-| Automation Toolkit | Manual Testing Pillars |
-| :--- | :--- |
-| 🚀 Web Automation via Selenium | 📋 Functional & Non-Functional Testing |
-| 🔄 Test Execution via TestNG | 🐛 Defect Tracking & Documentation |
-| 📦 Dependency Management via Maven | 🔄 Software Testing Life Cycle (STLC) |
+## 📈 Dev & Test Metrics
+| **GitHub Stats** | **Core Strengths** |
+| --- | --- |
+| ![Bala's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&include_all_commits=true) | 🔍 **Manual:** STLC, Defect Lifecycle, Agile<br>🤖 **Automation:** Selenium WebDriver, TestNG<br>☕ **Language:** Java Core |
 
 ---
 
-## 📊 Language Distribution
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true)
+## 🧪 Testing Showcase
+
+### 📂 [Student Grade Tracker — Code Validation Suite](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name)
+A Java core application built to practice strict data validation and logic paths. 
+* **Quality Focus:** Implemented boundary value analysis and equivalence partitioning logic directly into the tracking rules to prevent processing bugs.
 
 ---
 
-## 🎯 What I'm Working On
-- **Building:** Enhancing automated scripts and exploring robust error-handling mechanisms in Java.
-- **Learning:** Diving into modern testing tools like Playwright and expanding into API validation.
-- **Connecting:** Open to collaborating on QA frameworks or jumping into open-source testing suites.
+## 🛠️ Tech Stack & Ecosystem
+- **Testing Frameworks:** Selenium, TestNG, Maven
+- **Defect Tracking & Tools:** Git, GitHub
+- **Currently Upskilling:** Playwright, API Testing (Postman)
 
 ---
 
-📥 **[Connect with me on LinkedIn](Your Profile Link Here)**
+## 🤝 Reach Out
+- 💼 **LinkedIn:** [Your Profile Link Here]
+- 📧 **Email:** [Your Email Here]
