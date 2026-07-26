@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Bachelor of Computer Applications (BCA) Graduate
+* 🎓 Bachelor of Computer Applications (BCA) Graduate & MCA Enrolling
 * 💼 Working as a QA/QC Specialist
 * 🧪 Passionate about Software Testing and Quality Assurance
 * 💡 Skilled in Manual Testing, Selenium & Core Java
